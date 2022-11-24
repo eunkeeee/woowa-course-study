@@ -13,6 +13,8 @@
 [조은기](https://github.com/woowacourse-precourse/java-bridge/pull/196)
 [김준기](https://github.com/woowacourse-precourse/java-bridge/pull/706)
 [김지민](https://github.com/woowacourse-precourse/java-bridge/pull/154)
+[박성빈](https://github.com/woowacourse-precourse/java-bridge/pull/833)
+
 ##### 2주차 재구현 PR 링크
 ##### 3주차 재구현 PR 링크
 ##### 4주차 재구현 PR 링크
