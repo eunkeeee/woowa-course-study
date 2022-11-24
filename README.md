@@ -16,6 +16,10 @@
 [박성빈](https://github.com/woowacourse-precourse/java-bridge/pull/833)
 [정현승](https://github.com/woowacourse-precourse/java-bridge/pull/120)
 
+조은기: 김준기님 리뷰 완료했습니다. 
+
+재구현은 각자 자신의 속도에 맞게 진행해주시고, 완료되면 새롭게 PR을 보낸 후에 이곳에 올려주세요!
+
 ##### 2주차 재구현 PR 링크
 ##### 3주차 재구현 PR 링크
 ##### 4주차 재구현 PR 링크
