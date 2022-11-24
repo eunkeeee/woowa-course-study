@@ -9,7 +9,7 @@
 ### 1. 피어 리뷰
 
 아래 네 개의 필수 제출 사항이 있습니다. 옆에 본인의 링크를 `[이름](url)`로 달아주세요
-##### 4주차 PR 링크 
+##### 4주차 PR 링크 (11/27까지 최대한 빠르게 완료해 주시면 감사하겠습니다!)
 [조은기](https://github.com/woowacourse-precourse/java-bridge/pull/196)
 [김준기](https://github.com/woowacourse-precourse/java-bridge/pull/706)
 [김지민](https://github.com/woowacourse-precourse/java-bridge/pull/154)
