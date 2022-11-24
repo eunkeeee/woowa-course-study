@@ -11,6 +11,7 @@
 아래 네 개의 필수 제출 사항이 있습니다. 옆에 본인의 링크를 `[이름](url)`로 달아주세요
 ##### 4주차 PR 링크 
 [조은기](https://github.com/woowacourse-precourse/java-bridge/pull/196)
+[김준기](https://github.com/woowacourse-precourse/java-bridge/pull/706)
 ##### 2주차 재구현 PR 링크
 ##### 3주차 재구현 PR 링크
 ##### 4주차 재구현 PR 링크
