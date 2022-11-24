@@ -25,3 +25,10 @@
 ### 2. 본인의 약점을 보완할 스터디 내용
 [조은기](https://github.com/eunkeeee/woowa-course-study/blob/main/eunkeeee.md)
 [김준기](https://github.com/eunkeeee/woowa-course-study/blob/main/june-777.md)
+
+
+### 3. 기타
+- 함께 공부했으면 하는 내용, 함께 풀어보고 싶은 알고리즘 문항, 공유하고 싶은 내용이 있으면 자유롭게 작성해 주세요
+
+[마크다운 문서 사용 방법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+[JUnit5 튜토리얼](https://programmingtechie.com/2020/12/26/junit-5-complete-tutorial/)
