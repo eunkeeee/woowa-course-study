@@ -24,3 +24,4 @@
 
 ### 2. 본인의 약점을 보완할 스터디 내용
 [조은기](https://github.com/eunkeeee/woowa-course-study/blob/main/eunkeeee.md)
+[김준기](https://github.com/eunkeeee/woowa-course-study/blob/main/june-777.md)
