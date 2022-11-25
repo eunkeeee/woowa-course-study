@@ -31,6 +31,7 @@
 [조은기](https://github.com/eunkeeee/woowa-course-study/blob/main/eunkeeee.md)
 [김준기](https://github.com/eunkeeee/woowa-course-study/blob/main/june-777.md)
 [김지민](https://github.com/eunkeeee/woowa-course-study/blob/main/apptie.md)
+[정현승](https://github.com/eunkeeee/woowa-course-study/blob/main/HubCreator.md)
 
 ### 3. 기타
 - 함께 공부했으면 하는 내용, 함께 풀어보고 싶은 알고리즘 문항, 공유하고 싶은 내용이 있으면 자유롭게 작성해 주세요
