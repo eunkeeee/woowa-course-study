@@ -40,3 +40,5 @@
 
 [마크다운 문서 사용 방법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 [JUnit5 튜토리얼](https://programmingtechie.com/2020/12/26/junit-5-complete-tutorial/)
+[JUnit5 완벽 가이드](https://donghyeon.dev/junit/2021/04/11/JUnit5-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C/)
+[객체지향 생활 체조 원칙](https://blogshine.tistory.com/241)
