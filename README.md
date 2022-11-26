@@ -10,13 +10,14 @@
 
 아래 네 개의 필수 제출 사항이 있습니다. 옆에 본인의 링크를 `[이름](url)`로 달아주세요
 ##### 4주차 PR 링크 (11/27까지 최대한 빠르게 완료해 주시면 감사하겠습니다!)
-[조은기](https://github.com/woowacourse-precourse/java-bridge/pull/196)
-[김준기](https://github.com/woowacourse-precourse/java-bridge/pull/706)
-[김지민](https://github.com/woowacourse-precourse/java-bridge/pull/154)
-[박성빈](https://github.com/woowacourse-precourse/java-bridge/pull/833)
+[조은기](https://github.com/woowacourse-precourse/java-bridge/pull/196)   
+[김준기](https://github.com/woowacourse-precourse/java-bridge/pull/706)   
+[김지민](https://github.com/woowacourse-precourse/java-bridge/pull/154)   
+[박성빈](https://github.com/woowacourse-precourse/java-bridge/pull/833)   
 [정현승](https://github.com/woowacourse-precourse/java-bridge/pull/120)
 
-조은기: 김준기님, 정현승님 리뷰 완료했습니다. 
+조은기: 김준기님, 정현승님 리뷰 완료했습니다.  
+김지민: 조은기님, 김준기님, 박성빈님, 정현승님 리뷰 완료했습니다.
 
 ---
 
@@ -30,15 +31,15 @@
 
 
 ### 2. 본인의 약점을 보완할 스터디 내용
-[조은기](https://github.com/eunkeeee/woowa-course-study/blob/main/eunkeeee.md)
-[김준기](https://github.com/eunkeeee/woowa-course-study/blob/main/june-777.md)
-[김지민](https://github.com/eunkeeee/woowa-course-study/blob/main/apptie.md)
-[정현승](https://github.com/eunkeeee/woowa-course-study/blob/main/HubCreator.md)
+[조은기](https://github.com/eunkeeee/woowa-course-study/blob/main/eunkeeee.md)   
+[김준기](https://github.com/eunkeeee/woowa-course-study/blob/main/june-777.md)   
+[김지민](https://github.com/eunkeeee/woowa-course-study/blob/main/apptie.md)   
+[정현승](https://github.com/eunkeeee/woowa-course-study/blob/main/HubCreator.md)   
 
 ### 3. 기타
 - 함께 공부했으면 하는 내용, 함께 풀어보고 싶은 알고리즘 문항, 공유하고 싶은 내용이 있으면 자유롭게 작성해 주세요
 
-[마크다운 문서 사용 방법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
-[JUnit5 튜토리얼](https://programmingtechie.com/2020/12/26/junit-5-complete-tutorial/)
-[JUnit5 완벽 가이드](https://donghyeon.dev/junit/2021/04/11/JUnit5-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C/)
-[객체지향 생활 체조 원칙](https://blogshine.tistory.com/241)
+[마크다운 문서 사용 방법](https://gist.github.com/ihoneymon/652be052a0727ad59601)   
+[JUnit5 튜토리얼](https://programmingtechie.com/2020/12/26/junit-5-complete-tutorial/)   
+[JUnit5 완벽 가이드](https://donghyeon.dev/junit/2021/04/11/JUnit5-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C/)   
+[객체지향 생활 체조 원칙](https://blogshine.tistory.com/241)   
