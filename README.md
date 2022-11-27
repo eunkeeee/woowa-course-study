@@ -16,7 +16,7 @@
 [박성빈](https://github.com/woowacourse-precourse/java-bridge/pull/833)   
 [정현승](https://github.com/woowacourse-precourse/java-bridge/pull/120)
 
-조은기: 김준기님, 정현승님, 김지민님,  리뷰 완료했습니다.  
+조은기: 김준기님, 정현승님, 김지민님, 박성빈님 리뷰 완료했습니다.  
 김지민: 조은기님, 김준기님, 박성빈님, 정현승님 리뷰 완료했습니다.  
 김준기: 조은기님, 정현승님, 김지민님, 박성빈님 리뷰 완료했습니다.
 
