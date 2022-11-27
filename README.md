@@ -44,3 +44,15 @@
 [JUnit5 튜토리얼](https://programmingtechie.com/2020/12/26/junit-5-complete-tutorial/)   
 [JUnit5 완벽 가이드](https://donghyeon.dev/junit/2021/04/11/JUnit5-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C/)   
 [객체지향 생활 체조 원칙](https://blogshine.tistory.com/241)   
+
+
+---
+
+### 4. 지난 기수 문제들
+
+- 지난 기수 문제들도 함께 구현하고 싶은 분들은 같이 하시면 좋을 것 같아요!
+
+- [자판기](https://github.com/woowacourse/java-vendingmachine-precourse)
+- [자동차 경주 게임](https://github.com/woowacourse/java-racingcar-precourse)
+- [페어매칭관리 애플리케이션](https://github.com/woowacourse/java-pairmatching-precourse)
+- [지하철 노선도 경로 조회](https://github.com/woowacourse/java-subway-path-precourse)
