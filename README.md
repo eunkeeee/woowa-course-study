@@ -26,6 +26,7 @@
 재구현은 각자 자신의 속도에 맞게 진행해주시고, 완료되면 새롭게 PR을 보낸 후에 이곳에 올려주세요!
 
 ##### 1주차 재구현 PR 링크
+[조은기](https://github.com/woowacourse-precourse/java-onboarding/pull/1841)
 
 ##### 2주차 재구현 PR 링크
 [정현승](https://github.com/HubCreator/java-baseball/pull/1)  
