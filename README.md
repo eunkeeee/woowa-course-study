@@ -30,6 +30,7 @@
 
 ##### 2주차 재구현 PR 링크
 [정현승](https://github.com/HubCreator/java-baseball/pull/1)  
+[조은기](https://github.com/woowacourse-precourse/java-baseball/pull/1502)
 
 ##### 3주차 재구현 PR 링크
 [정현승](https://github.com/HubCreator/java-lotto/pull/1)  
