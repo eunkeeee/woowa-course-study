@@ -39,6 +39,7 @@
 [정현승](https://github.com/HubCreator/java-lotto/pull/1)  
 
 ##### 4주차 재구현 PR 링크
+[정현승](https://github.com/HubCreator/java-bridge/pull/1)  
 
 
 
