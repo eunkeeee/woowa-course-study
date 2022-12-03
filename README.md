@@ -34,12 +34,12 @@
 [김지민](https://github.com/apptie/java-baseball/pull/2)
 
 조은기: 정현승님 리뷰 완료했습니다.   
-정현승 : 조은기님, 김지민님 리뷰 완료했습니다.  
+정현승 : 조은기님, 김지민님 리뷰 완료했습니다.   
 김지민 : 정현승님, 조은기님 리뷰 완료했습니다.
 
 ##### 3주차 재구현 PR 링크
 [정현승](https://github.com/HubCreator/java-lotto/pull/1)  
-[조은기](https://github.com/woowacourse-precourse/java-lotto/pull/1319)
+[조은기](https://github.com/woowacourse-precourse/java-lotto/pull/1319)    
 [김지민](https://github.com/apptie/java-lotto/pull/1)
 
 ##### 4주차 재구현 PR 링크
