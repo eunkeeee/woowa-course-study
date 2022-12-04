@@ -39,7 +39,6 @@
 
 ##### 3주차 재구현 PR 링크
 [정현승](https://github.com/HubCreator/java-lotto/pull/1)  
-[조은기](https://github.com/woowacourse-precourse/java-lotto/pull/1319)    
 [김지민](https://github.com/apptie/java-lotto/pull/1)
 
 ##### 4주차 재구현 PR 링크
