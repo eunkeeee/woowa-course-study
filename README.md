@@ -45,6 +45,7 @@
 
 ##### 4주차 다리건너기 재구현 PR 링크
 [정현승](https://github.com/HubCreator/java-bridge/pull/1)  
+[조은기](https://github.com/woowacourse-precourse/java-bridge/pull/1207)
 
 
 ### 2. 본인의 약점을 보완할 스터디 내용
