@@ -30,8 +30,9 @@
 
 ##### 2주차 숫자야구 재구현 PR 링크
 [정현승](https://github.com/HubCreator/java-baseball/pull/1)   
-[조은기](https://github.com/woowacourse-precourse/java-baseball/pull/1502)    
 [김지민](https://github.com/apptie/java-baseball/pull/2)
+[조은기](https://github.com/woowacourse-precourse/java-baseball/pull/1502)
+
 
 조은기: 정현승님 리뷰 완료했습니다.   
 정현승 : 조은기님, 김지민님 리뷰 완료했습니다.   
