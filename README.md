@@ -25,10 +25,10 @@
 
 재구현은 각자 자신의 속도에 맞게 진행해주시고, 완료되면 새롭게 PR을 보낸 후에 이곳에 올려주세요!
 
-##### 1주차 재구현 PR 링크
+##### 1주차 온보딩 재구현 PR 링크
 [조은기](https://github.com/woowacourse-precourse/java-onboarding/pull/1841)
 
-##### 2주차 재구현 PR 링크
+##### 2주차 숫자야구 재구현 PR 링크
 [정현승](https://github.com/HubCreator/java-baseball/pull/1)   
 [조은기](https://github.com/woowacourse-precourse/java-baseball/pull/1502)    
 [김지민](https://github.com/apptie/java-baseball/pull/2)
@@ -37,11 +37,12 @@
 정현승 : 조은기님, 김지민님 리뷰 완료했습니다.   
 김지민 : 정현승님, 조은기님 리뷰 완료했습니다.
 
-##### 3주차 재구현 PR 링크
+##### 3주차 로또 재구현 PR 링크
 [정현승](https://github.com/HubCreator/java-lotto/pull/1)  
+[조은기](https://github.com/woowacourse-precourse/java-lotto/pull/1319)
 [김지민](https://github.com/apptie/java-lotto/pull/1)
 
-##### 4주차 재구현 PR 링크
+##### 4주차 다리건너기 재구현 PR 링크
 [정현승](https://github.com/HubCreator/java-bridge/pull/1)  
 [조은기](https://github.com/woowacourse-precourse/java-bridge/pull/1207)
 
