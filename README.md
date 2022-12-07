@@ -49,10 +49,10 @@
 [조은기](https://github.com/woowacourse-precourse/java-bridge/pull/1207)     
 [김지민](https://github.com/apptie/java-bridge/pull/1)     
 
-#### 지난기수 [자동차 경주 게임](https://github.com/woowacourse/java-racingcar-precourse) PR 링크
+##### 지난기수 [자동차 경주 게임](https://github.com/woowacourse/java-racingcar-precourse) PR 링크
 [조은기](https://github.com/eunkeeee/java-racingcar/pull/1)
 
-#### 지난기수 [자판기 게임](https://github.com/woowacourse/java-vendingmachine-precourse) PR 링크
+##### 지난기수 [자판기 게임](https://github.com/woowacourse/java-vendingmachine-precourse) PR 링크
 [조은기](https://github.com/woowacourse/java-vendingmachine-precourse/pull/168)
 
 ### 2. 본인의 약점을 보완할 스터디 내용
