@@ -49,6 +49,8 @@
 [정현승](https://github.com/HubCreator/java-bridge/pull/1)  
 [조은기](https://github.com/woowacourse-precourse/java-bridge/pull/1207)
 
+#### 지난기수 자동차 경주 PR 링크
+[조은기](https://github.com/eunkeeee/java-racingcar/pull/1)
 
 ### 2. 본인의 약점을 보완할 스터디 내용
 [조은기](https://github.com/eunkeeee/woowa-course-study/blob/main/eunkeeee.md)   
