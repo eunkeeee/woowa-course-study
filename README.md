@@ -54,7 +54,8 @@
 [정현승](https://github.com/HubCreator/java-racingcar-playground/pull/1)
 
 ##### 지난기수 [자판기 게임](https://github.com/woowacourse/java-vendingmachine-precourse) PR 링크
-[조은기](https://github.com/woowacourse/java-vendingmachine-precourse/pull/168)
+[조은기](https://github.com/woowacourse/java-vendingmachine-precourse/pull/168)   
+[정현승](https://github.com/HubCreator/java-vendingmachine-precourse/pull/1)
 
 ### 2. 본인의 약점을 보완할 스터디 내용
 [조은기](https://github.com/eunkeeee/woowa-course-study/blob/main/eunkeeee.md)   
