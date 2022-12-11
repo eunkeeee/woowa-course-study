@@ -51,7 +51,8 @@
 
 ##### 지난기수 [자동차 경주 게임](https://github.com/woowacourse/java-racingcar-precourse) PR 링크
 [조은기](https://github.com/eunkeeee/java-racingcar/pull/1)   
-[정현승](https://github.com/HubCreator/java-racingcar-playground/pull/1)
+[정현승](https://github.com/HubCreator/java-racingcar-playground/pull/1)    
+[김지민](https://github.com/apptie/java-racingcar-precourse/pull/1)
 
 ##### 지난기수 [자판기 게임](https://github.com/woowacourse/java-vendingmachine-precourse) PR 링크
 [정현승](https://github.com/HubCreator/java-vendingmachine-precourse/pull/1)
