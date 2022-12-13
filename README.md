@@ -58,6 +58,9 @@
 [정현승](https://github.com/HubCreator/java-vendingmachine-precourse/pull/1)     
 [김지민](https://github.com/apptie/java-vendingmachine-precourse/pull/1/files)
 
+#### 지난기수 페어매칭관리 애플리케이션 PR 링크
+[조은기](https://github.com/woowacourse/java-pairmatching-precourse/pull/152)
+
 ### 2. 본인의 약점을 보완할 스터디 내용
 [조은기](https://github.com/eunkeeee/woowa-course-study/blob/main/eunkeeee.md)   
 [김준기](https://github.com/eunkeeee/woowa-course-study/blob/main/june-777.md)   
