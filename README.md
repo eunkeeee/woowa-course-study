@@ -55,7 +55,7 @@
 [김지민](https://github.com/apptie/java-racingcar-precourse/pull/1)
 
 ##### 지난기수 [자판기 게임](https://github.com/woowacourse/java-vendingmachine-precourse) PR 링크
-[정현승](https://github.com/HubCreator/java-vendingmachine-precourse/pull/1)     
+[정현승](https://github.com/HubCreator/java-vendingmachine-precourse/pull/1)[정현승 재재구현](https://github.com/HubCreator/java-vendingmachine-precourse/pull/2)     
 [김지민](https://github.com/apptie/java-vendingmachine-precourse/pull/1/files)
 
 #### 지난기수 페어매칭관리 애플리케이션 PR 링크
